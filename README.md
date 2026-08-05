@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=230&section=header&text=Lee%20Jong%20Hun&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%20Service%20Developer&descAlignY=62&descSize=20&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=230&section=header&text=Lee%20Jong%20Hoon&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%20Service%20Developer&descAlignY=62&descSize=20&descColor=ffffff" />
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=ljh11442-ctrl&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
