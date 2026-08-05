@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=230&section=header&text=Lee%20Jong%20Hoon&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%20Service%20Developer&descAlignY=62&descSize=20&descColor=ffffff" />
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ljh11442-ctrl&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/ljh11442-ctrl?style=for-the-badge&logo=github&label=FOLLOWERS&color=06B6D4"/>
+<img src="https://komarev.com/ghpvc/?username=Leejonghoona&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Leejonghoona?style=for-the-badge&logo=github&label=FOLLOWERS&color=06B6D4"/>
 <img src="https://img.shields.io/badge/Gmail-ljh11442%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 <a href="https://ddolteng.tistory.com/"><img src="https://img.shields.io/badge/Blog-ddolteng.tistory.com-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
