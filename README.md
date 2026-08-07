@@ -74,7 +74,7 @@
 부모가 남긴 사진과 짧은 기록을 LLM이 다듬어 일기로 저장하고, 누적 기록을 1인칭 디지털북으로 자동 생성하는 육아 기록 플랫폼입니다.
 
 - 아이 정보 · 성장 기록 · 커뮤니티 댓글 백엔드 API 설계 및 구현, 일기 작성 완료 알림 기능 개발
-- 아기·아동 행동 인식을 위한 이미지 크롤링 및 ConvNeXt 기반 모델 학습·파인튜닝
+- 아기·아동 행동 인식을 위한 이미지 크롤링 및 모델 학습·파인튜닝
 - 서비스 전반 트러블슈팅 담당 — 실제 사용자 흐름 기준으로 예외 케이스를 발굴하고 개선
 - **Backend Repo** → [IBM_RedHat_Final_Project_BE](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE) · **Frontend Repo** → [IBM_RedHat_Final_Project_FE](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_FE)
 
