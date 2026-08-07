@@ -16,7 +16,7 @@
 
 ## 🧭 About Me
 
-- 🎓 **IBM x Red Hat AI Transformation – AX Academy**(960H) 수료 — Python·React·FastAPI 풀스택 + 생성형 AI(watsonx.ai, RAG) 실무 학습
+- 🎓 **IBM x Red Hat AI Transformation – AX Academy**(960H) 수료 - Python·React·FastAPI 풀스택 + 생성형 AI(watsonx.ai, RAG) 실무 학습
 - 🏆 AI 기반 육아 성장 일기 플랫폼 **DearBaby** 파이널 프로젝트를 완주, 부트캠프 전체 1위로 마무리
 - 🚀 FastAPI · Spring Boot 기반 백엔드와 LLM/RAG를 엮어 "일단 되는 것"보다 "실제로 쓰이는 것"을 만드는 데 관심이 많습니다
 - 🌏 뉴질랜드 유학 및 다국적 고객 응대 경험 — 협업과 커뮤니케이션에 강점
