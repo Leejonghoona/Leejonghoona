@@ -55,7 +55,8 @@
 
 <br>
 
-## 🚀 Featured Projects### 🗺️ [GIUT — 공공데이터 기반 지역 행사 탐색 & AI 추천 서비스](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)
+## 🚀 Featured Projects
+### 🗺️ [GIUT — 공공데이터 기반 지역 행사 탐색 & AI 추천 서비스](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)
 `중간 프로젝트 · 팀 5인 · 2026.03 ~ 2026.04` &nbsp;·&nbsp; 🏆 `부트캠프 중간 프로젝트 1위`
 
 여러 곳에 흩어진 지역 축제 정보를 한 곳에서 탐색하고, 취향에 맞는 방문 코스를 AI가 추천해주는 서비스입니다.
