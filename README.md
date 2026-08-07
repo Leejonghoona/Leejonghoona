@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6BD4,50:3B82F6,100:06B6D4&height=220&section=header&text=Jonghoon%20Lee&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Backend%20%2B%20AI%20Service%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 **서비스로 이어지지 않는 AI는 반쪽짜리라고 생각합니다.**
+<br>
 관찰 → 데이터 분석 → 실행 → 검증, 이 순환을 반복하며 실제로 쓰이는 것을 만드는 개발자 이종훈입니다.
 
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://ddolteng.tistory.com/)
@@ -54,7 +55,16 @@
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects### 🗺️ [GIUT — 공공데이터 기반 지역 행사 탐색 & AI 추천 서비스](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)
+`중간 프로젝트 · 팀 5인 · 2026.03 ~ 2026.04` &nbsp;·&nbsp; 🏆 `부트캠프 중간 프로젝트 1위`
+
+여러 곳에 흩어진 지역 축제 정보를 한 곳에서 탐색하고, 취향에 맞는 방문 코스를 AI가 추천해주는 서비스입니다.
+
+- 사용자 입력(테마·날짜·지역) → 관광공사 API 데이터 기반 AI 코스 추천 핵심 흐름 설계
+- 로그인 · 회원가입 · 마이페이지 화면 프론트엔드 구현 (React)
+- 탐색부터 코스 저장·문의까지 하나의 흐름으로 이어지도록 기획
+
+<br>
 
 ### 👶 [DearBaby — 육아 성장 기록 AI 서비스](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE)
 `파이널 프로젝트 · 팀 5인 · 2026.06 ~ 2026.08` &nbsp;·&nbsp; 🏆 `부트캠프 파이널 프로젝트 1위`
@@ -68,16 +78,8 @@
 
 <br>
 
-### 🗺️ [GIUT — 공공데이터 기반 지역 행사 탐색 & AI 추천 서비스](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)
-`중간 프로젝트 · 팀 5인 · 2026.03 ~ 2026.04` &nbsp;·&nbsp; 🏆 `부트캠프 중간 프로젝트 1위`
 
-여러 곳에 흩어진 지역 축제 정보를 한 곳에서 탐색하고, 취향에 맞는 방문 코스를 AI가 추천해주는 서비스입니다.
 
-- 사용자 입력(테마·날짜·지역) → 관광공사 API 데이터 기반 AI 코스 추천 핵심 흐름 설계
-- 로그인 · 회원가입 · 마이페이지 화면 프론트엔드 구현 (React)
-- 탐색부터 코스 저장·문의까지 하나의 흐름으로 이어지도록 기획
-
-<br>
 
 ## 🧭 Project Map
 
