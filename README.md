@@ -1,113 +1,36 @@
-<div align="center">
+### 이종훈
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6BD4,50:3B82F6,100:06B6D4&height=220&section=header&text=Jonghoon%20Lee&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Backend%20%2B%20AI%20Service%20Developer&descAlignY=58&descSize=18" width="100%"/>
+**좋은 숫자일수록 한 번 더 의심하는 AI 에이전트 개발자**
+*AI agent developer who double-checks the good numbers first.*
 
-**서비스로 이어지지 않는 AI는 반쪽짜리라고 생각합니다.**
-<br>
-관찰 → 데이터 분석 → 실행 → 검증, 이 순환을 반복하며 실제로 쓰이는 것을 만드는 개발자 이종훈입니다.
+LLM은 판단을 돕고, 실행은 검증된 규칙이 맡는 구조를 만듭니다.
+모델을 고르기 전에 평가 기준과 합격선부터 정하고, 결과가 좋을수록 측정 방법을 다시 확인합니다.
 
-[![Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://ddolteng.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljh11442@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Leejonghoona?style=for-the-badge&logo=github&label=Followers&color=0B6BD4)](https://github.com/Leejonghoona?tab=followers)
+#### 프로젝트
 
-</div>
+| 프로젝트 | 무엇을 | 핵심 숫자 | 역할 |
+|---|---|---|---|
+| [**WardFlow**](https://github.com/Leejonghoona/wardflow-bed-agent) | 퇴원부터 다음 입실까지 병상 준비를 맡는 병원 AI 에이전트. 판단과 실행을 나누고, LLM 판단은 담당자 검증을 거쳐 규칙표로 쌓음 | 실행 안전 위반 **0 / 761**, 사람 손 없이 확정 **72.4%** (합성 데이터) | 개인 |
+| [**오또 OTTO**](https://github.com/ai-project-team3/bootcamp-final-project) | 아이의 말로 그림책을 만드는 Android 앱. Google Play 비공개 테스트 | 폰 탑재 Whisper LoRA, 3~5세 오류율 **36.5% → 16.3%** | 4인 팀 리드 |
+| [**DearBaby**](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE) | 아기 사진으로 행동을 분류하는 성장 기록 서비스. IBM x Red Hat AX Academy 최우수상 | ResNet50 15종 분류 정확도 **94.76%** | 5인 팀, ML |
+| [**Handover**](https://github.com/Leegijun11/Handover_rag) | 인수인계서를 근거로 답하는 신입 온보딩 RAG 챗봇 | 원티드 AI Championship 2026 | 3인 팀, 프론트엔드 |
+| 아이 화면 지킴이 | 아이 폰 속 거친 말투를 기기 안에서 순화하는 앱 | 진행 중 | 개인 |
 
-<br>
+그 밖에 [GIUT](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)(공공데이터 지역 행사 추천, IBM x Red Hat 중간 프로젝트 최우수상), 얼음땡(아이스브레이킹 웹 서비스, 팀 리드)
 
-## 🧭 About Me
+<details>
+<summary>숫자 더 보기</summary>
 
-- 🎓 **IBM x Red Hat AI Transformation – AX Academy**(960H) 수료 - Python·React·FastAPI 풀스택 + 생성형 AI(watsonx.ai, RAG) 실무 학습
-- 🏆 AI 기반 육아 성장 일기 플랫폼 **DearBaby** 파이널 프로젝트를 완주, 부트캠프 전체 1위로 마무리
-- 🚀 FastAPI · Spring Boot 기반 백엔드와 LLM/RAG를 엮어 "일단 되는 것"보다 "실제로 쓰이는 것"을 만드는 데 관심이 많습니다
-- 🌏 뉴질랜드 유학 및 다국적 고객 응대 경험 — 협업과 커뮤니케이션에 강점
-- 📝 기술 블로그에 문제 해결 과정을 기록하며 성장합니다
+- **WardFlow:** 원내 GPU 1장 조건(H100, vLLM)에서 LLM 7종을 사전 등록한 합격선으로 시험해 4종 중 3종 통과, 대표 Gemma 4 26B. 금지 행동 실행 0건
+- **오또:** 받아쓰기 3세 오류율 57% → 37%, 판정 LLM 원가 21.6원 → 10.5원, 책 생성 36.9초 → 12.6초
 
-<br>
+</details>
 
-## 🛠 Tech Stack
+#### 기술
 
-<table>
-<tr>
-<td valign="top" width="50%">
+Python · FastAPI · PyTorch · React · Docker
+vLLM · LLM 평가 · RAG · Whisper / LoRA · MCP · OpenTelemetry · rdflib / SHACL · Claude Code
 
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+#### 연락
 
-**AI / ML**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/IBM%20watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-**Cloud & Infra**
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes%20(OpenShift)-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🚀 Featured Projects
-### 🗺️ [GIUT — 공공데이터 기반 지역 행사 탐색 & AI 추천 서비스](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)
-`중간 프로젝트 · 팀 5인 · 2026.03 ~ 2026.04` &nbsp;·&nbsp; 🏆 `부트캠프 중간 프로젝트 1위`
-
-여러 곳에 흩어진 지역 축제 정보를 한 곳에서 탐색하고, 취향에 맞는 방문 코스를 AI가 추천해주는 서비스입니다.
-
-- 사용자 입력(테마·날짜·지역) → 관광공사 API 데이터 기반 AI 코스 추천 핵심 흐름 설계
-- 로그인 · 회원가입 · 마이페이지 화면 프론트엔드 구현 (React)
-- 탐색부터 코스 저장·문의까지 하나의 흐름으로 이어지도록 기획
-- **Project Repo** → [IBM-x-RedHat-Midterm-Project](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)
-
-<br>
-
-### 👶 [DearBaby — 육아 성장 기록 AI 서비스](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE)
-`파이널 프로젝트 · 팀 5인 · 2026.06 ~ 2026.08` &nbsp;·&nbsp; 🏆 `부트캠프 파이널 프로젝트 1위`
-
-부모가 남긴 사진과 짧은 기록을 LLM이 다듬어 일기로 저장하고, 누적 기록을 1인칭 디지털북으로 자동 생성하는 육아 기록 플랫폼입니다.
-
-- 아이 정보 · 성장 기록 · 커뮤니티 댓글 백엔드 API 설계 및 구현, 일기 작성 완료 알림 기능 개발
-- 아기·아동 행동 인식을 위한 이미지 크롤링 및 모델 학습·파인튜닝
-- 서비스 전반 트러블슈팅 담당 — 실제 사용자 흐름 기준으로 예외 케이스를 발굴하고 개선
-- **Backend Repo** → [IBM_RedHat_Final_Project_BE](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE) · **Frontend Repo** → [IBM_RedHat_Final_Project_FE](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_FE)
-
-<br>
-
-
-
-
-## 🧭 Project Map
-
-| 영역 | 내용 |
-|---|---|
-| AI Service | GIUT — 공공데이터 + OpenAI API 추천 로직 |
-| AI / ML | DearBaby — ConvNeXt / ResNet50 파인튜닝, watsonx.ai 기반 RAG |
-| Full-Stack | React · FastAPI · MySQL(AWS RDS) |
-| Cloud & Deploy | AWS(EC2/ECS) · Docker · Kubernetes(OpenShift) |
-
-<br>
-
-
-
-## 🎯 Currently Focusing On
-
-- DearBaby에서 다룬 RAG 파이프라인을 개인 프로젝트로 확장하며 고도화
-- AI 기능을 실제 사용자 서비스로 안정적으로 연결하는 구조 설계 역량 강화
-- Docker / AWS 기반 서비스 배포 및 운영 안정화
-
-<br>
-
-<div align="center">
-
-**성장하는 태도로 결과물의 완성도를 높이는 개발자가 되겠습니다.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0B6BD4&height=120&section=footer"/>
-
-</div>
+[ljh11442@gmail.com](mailto:ljh11442@gmail.com) · [블로그](https://ddolteng.tistory.com/)
