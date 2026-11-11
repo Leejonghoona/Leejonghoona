@@ -8,13 +8,23 @@ LLM은 판단을 돕고, 실행은 검증된 규칙이 맡는 구조를 만듭�
 
 #### 프로젝트
 
-| 프로젝트 | 무엇을 | 핵심 숫자 | 역할 |
-|---|---|---|---|
-| [**WardFlow**](https://github.com/Leejonghoona/wardflow-bed-agent) | 퇴원부터 다음 입실까지 병상 준비를 맡는 병원 AI 에이전트. 판단과 실행을 나누고, LLM 판단은 담당자 검증을 거쳐 규칙표로 쌓음 | 실행 안전 위반 **0 / 761**, 사람 손 없이 확정 **72.4%** (합성 데이터) | 개인 |
-| [**오또 OTTO**](https://github.com/ai-project-team3/bootcamp-final-project) | 아이의 말로 그림책을 만드는 Android 앱. Google Play 비공개 테스트 | 폰 탑재 Whisper LoRA, 3~5세 오류율 **36.5% → 16.3%** | 4인 팀 리드 |
-| [**DearBaby**](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE) | 아기 사진으로 행동을 분류하는 성장 기록 서비스. IBM x Red Hat AX Academy 최우수상 | ResNet50 15종 분류 정확도 **94.76%** | 5인 팀, ML |
-| [**Handover**](https://github.com/Leegijun11/Handover_rag) | 인수인계서를 근거로 답하는 신입 온보딩 RAG 챗봇 | 원티드 AI Championship 2026 | 3인 팀, 프론트엔드 |
-| 아이 화면 지킴이 | 아이 폰 속 거친 말투를 기기 안에서 순화하는 앱 | 진행 중 | 개인 |
+- [**WardFlow**](https://github.com/Leejonghoona/wardflow-bed-agent) · 개인
+  퇴원부터 다음 입실까지 병상 준비를 맡는 병원 AI 에이전트. 판단과 실행을 나누고, LLM 판단은 담당자 검증을 거쳐 규칙표로 쌓습니다.
+  실행 안전 위반 **0 / 761**, 사람 손 없이 확정 **72.4%** (합성 데이터)
+
+- [**오또 OTTO**](https://github.com/ai-project-team3/bootcamp-final-project) · 4인 팀 리드
+  아이의 말로 그림책을 만드는 Android 앱. Google Play 비공개 테스트까지 진행했습니다.
+  폰 탑재 Whisper LoRA로 3~5세 받아쓰기 오류율 **36.5% → 16.3%**
+
+- [**DearBaby**](https://github.com/Leejonghoona/IBM_RedHat_Final_Project_BE) · 5인 팀, ML 담당
+  아기 사진으로 행동을 분류하는 성장 기록 서비스. IBM x Red Hat AX Academy 최우수상.
+  ResNet50 15종 분류 정확도 **94.76%**
+
+- [**Handover**](https://github.com/Leegijun11/Handover_rag) · 3인 팀, 프론트엔드
+  인수인계서를 근거로 답하는 신입 온보딩 RAG 챗봇. 원티드 AI Championship 2026 출품.
+
+- **아이 화면 지킴이** · 개인, 진행 중
+  아이 폰 속 거친 말투를 기기 안에서 순화하는 앱.
 
 그 밖에 [GIUT](https://github.com/Leejonghoona/IBM-x-RedHat-Midterm-Project)(공공데이터 지역 행사 추천, IBM x Red Hat 중간 프로젝트 최우수상), 얼음땡(아이스브레이킹 웹 서비스, 팀 리드)
 
