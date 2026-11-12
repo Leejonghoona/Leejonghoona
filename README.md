@@ -10,7 +10,7 @@ LLM은 판단을 돕고, 실행은 검증된 규칙이 맡는 구조를 만듭�
 
 - [**WardFlow**](https://github.com/Leejonghoona/wardflow-bed-agent) · 개인
   퇴원부터 다음 입실까지 병상 준비를 맡는 병원 AI 에이전트. 판단과 실행을 나누고, LLM 판단은 담당자 검증을 거쳐 규칙표로 쌓습니다.
-  실행 안전 위반 **0 / 761**, 사람 손 없이 확정 **72.4%** (합성 데이터)
+  실행 안전 위반 **0 / 764**, 사람 손 없이 확정 **72.4%** (합성 데이터)
 
 - [**오또 OTTO**](https://github.com/ai-project-team3/bootcamp-final-project) · 4인 팀 리드
   아이의 말로 그림책을 만드는 Android 앱. Google Play 비공개 테스트까지 진행했습니다.
